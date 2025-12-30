@@ -1,44 +1,9 @@
-<!-- ## Hi there 👋 -->
+<h1 align="center">Hi 👋, I'm Sairatan Gadakh</h1>
+<h3 align="center">Innovative Software Developer with expertise in designing and building robust software systems. Skilled in turning complex requirements into efficient, reliable applications. Proficient in modern frameworks, cloud tools, and database technologies. Known for problem-solving, quick learning, and delivering high-impact features that improve user experience and system performance.</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<h1 align="center">Hi 👋, I'm Sai Ratan Gadakh</h1>
-<h3 align="center">Software Developer | Cloud & DevOps enthusiast</h3>
-
----
-
-### 🚀 About Me
-- 💻 Passionate about **Web Development & Software Engineering**
-- 🎓 MSc / MCS / CS Student
-- 🌱 Currently learning **Advanced Backend & Cloud Technologies**
-- 🧠 Strong interest in **System Design & Clean Architecture**
-- 📫 Reach me at: **sairatangadakh21@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-#### 💻 Languages
-- Python
-- Go Lang
-- C / C++
-
-#### 🌐 Web Development
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Node.js
-- Express
-
-#### 🗄️ Database
-- PostgresSQL
-- MongoDB
-
-#### ⚙️ Tools & Platforms
-- Git & GitHub & GitLab
-- AWS
-- Docker
-- Kubernetes
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
