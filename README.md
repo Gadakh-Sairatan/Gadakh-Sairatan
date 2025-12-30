@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sairatan Gadakh</h1>
-<h3 align="center">Innovative Software Developer with expertise in designing and building robust software systems. Skilled in turning complex requirements into efficient, reliable applications. Proficient in modern frameworks, cloud tools, and database technologies. Known for problem-solving, quick learning, and delivering high-impact features that improve user experience and system performance.</h3>
+<h3 align="center">Innovative Software Developer with expertise in designing and building robust software systems. Skilled in turning complex requirements into efficient, reliable applications. Known for problem-solving, quick learning, and delivering high-impact features that improve user experience and system performance.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
